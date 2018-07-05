@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="tv_forgotPassword">Forgot Your Password</string>
+    <string name="register">Register</string>
+    <string name="et_firstName">Fist name</string>
+    <string name="lastName">Last name</string>
+    <string name="tv_termsAndConditions">Terms and Condition</string>
+    <string name="welcome">Welcome to demo app</string>
+    <string name="btn_register">Register</string>
+    <string name="btn_login">Login</string>
+    <string name="hint_salary">Salary</string>
+</resources>
